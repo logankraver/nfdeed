@@ -1,0 +1,10 @@
+{
+    "name": "The First Deed",
+    "description": "This NFT is a small portion of a deed for a building.",
+    "image": "https://ipfs.io/ipfs/QmRTjpi6Bf5eyKujJEh9QYbSXAUv5eexSDDw2jLFuoDaZq",
+    "attributes": {
+        "addressLocation": "121 Triphammer Road Ithaca, NY 14850",
+        "sharesOwned": 1000,
+        "totalOutstandingShares": 10000000
+    }
+}
